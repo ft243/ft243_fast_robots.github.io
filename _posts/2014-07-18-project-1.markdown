@@ -5,8 +5,6 @@ date: 2014-07-18
 img: Bluetooth.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: **Bimotal** was founded in 2019 to develop innovative micro-electric powertrains for right-sized personal vehicles. We are a group of Tesla, startup, and bike industry alumni working towards our mission of reducing barriers to car-free mobility.
 ---
 **Bimotal** was founded in 2019 to develop innovative micro-electric powertrains for right-sized personal vehicles. We are a group of Tesla, startup, and bike industry alumni working towards our mission of reducing barriers to car-free mobility.
