@@ -7,8 +7,14 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam. was founded in 2019 to develop innovative micro-electric powertrains for right-sized personal vehicles. We are a group of Tesla, startup, and bike industry alumni working towards our mission of reducing barriers to car-free mobility.
----
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.**Bimotal** was founded in 2019 to develop innovative micro-electric powertrains for right-sized personal vehicles. We are a group of Tesla, startup, and bike industry alumni working towards our mission of reducing barriers to car-free mobility.
+
+In addition to our direct-to-consumer product, **Elevate**, an easily retrofittable and removable powertrain that converts disc-brake bicycles into e-bikes, we have also partnered with vehicle OEMs (bikes and other micromobility vehicles) to provide them with high-performance powertrains specifically designed for their needs.
+
+**Bimotal** is positioning itself as a technology company with the aim of making the best microelectric powertrains in the world, and eventually, the best personal-sized electric vehicles.
+
+Come join us in building the future of transportation.
+
 **Bimotal** was founded in 2019 to develop innovative micro-electric powertrains for right-sized personal vehicles. We are a group of Tesla, startup, and bike industry alumni working towards our mission of reducing barriers to car-free mobility.
 
 In addition to our direct-to-consumer product, **Elevate**, an easily retrofittable and removable powertrain that converts disc-brake bicycles into e-bikes, we have also partnered with vehicle OEMs (bikes and other micromobility vehicles) to provide them with high-performance powertrains specifically designed for their needs.
@@ -16,3 +22,4 @@ In addition to our direct-to-consumer product, **Elevate**, an easily retrofitta
 **Bimotal** is positioning itself as a technology company with the aim of making the best microelectric powertrains in the world, and eventually, the best personal-sized electric vehicles.
 
 Come join us in building the future of transportation.
+---
