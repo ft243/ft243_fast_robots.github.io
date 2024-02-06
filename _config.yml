@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: ECE5160 Lab
 email: ft243@cornell.edu
-url: https://ft243_fast_robots.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://ft243.github.io/ECE5160/
+description: "This is the website for ECE5160 Fast Robots Spring 2024 at Cornell University"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "ft243@cornell.edu"
+meta_author: Fengkai Tang
 
 # Google webmaster tools
 google_verify:
